@@ -147,7 +147,8 @@ J 0 <br>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
 
-![Uploading Screenshot 2025-04-25 154623.png…]()
+![Screenshot 2025-04-25 154623](https://github.com/user-attachments/assets/c62cf52f-d15a-4831-9c88-b585f2ce21b7)
+
 
 
 
